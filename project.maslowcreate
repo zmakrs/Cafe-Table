@@ -1825,6 +1825,35 @@
             ]
         },
         {
+            "atomType": "Gcode",
+            "name": "Gcode",
+            "x": 0.7265624999999999,
+            "y": 0.5081967213114754,
+            "uniqueID": 416584,
+            "ioValues": [
+                {
+                    "name": "tool size",
+                    "ioValue": 6.35
+                },
+                {
+                    "name": "passes",
+                    "ioValue": 6
+                },
+                {
+                    "name": "speed",
+                    "ioValue": 500
+                },
+                {
+                    "name": "tabs",
+                    "ioValue": "true"
+                },
+                {
+                    "name": "safe height",
+                    "ioValue": 6
+                }
+            ]
+        },
+        {
             "atomType": "Rotate",
             "name": "Rotate",
             "x": 0.40336749633967794,
@@ -1848,8 +1877,8 @@
         {
             "atomType": "Stl",
             "name": "Stl",
-            "x": 0.724609375,
-            "y": 0.721311475409836,
+            "x": 0.709375,
+            "y": 0.7868852459016394,
             "uniqueID": 438518,
             "ioValues": []
         },
